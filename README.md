@@ -1,5 +1,5 @@
 <h1 align="center">Asutosh Sidhya</h1>
-<h3 align="center">A passionate MERN developer from India || If debugging is the process of removing bugs, then programming must be the process of putting them in.</h3>
+<h3 align="center">If debugging is the process of removing bugs, then programming must be the process of putting them in.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidhyaashu&label=Profile%20views&color=0e75b6&style=flat" alt="sidhyaashu" /> </p>
 
