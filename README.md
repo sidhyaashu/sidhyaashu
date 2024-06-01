@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sidhyaashu/](https://github.com/sidhyaashu/)
 
-- ⚡ Fun fact **There is always one more bug to fix.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/asutosh_sidhyaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asutosh_sidhyaa" height="30" width="40" /></a>
