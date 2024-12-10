@@ -65,4 +65,5 @@
 </div>
 
 ###
+![stats](https://raw.githubusercontent.com/sidhyaashu/Project_data/refs/heads/master/stats.svg)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sidhyaashu&theme=vue-dark&hide_border=false)<br/>
