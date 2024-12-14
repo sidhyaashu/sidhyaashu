@@ -50,14 +50,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
 
-###
-
-
-
-###
-![](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Commit,Repositories,Followers&theme=monokai)
-<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sidhyaashu&theme=vue-dark&hide_border=false)<br/>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/asutoshsidhya8170/" target="_blank">
